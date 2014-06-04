@@ -1,21 +1,30 @@
-#Archey for OS X
-An archey script for OS X.
+# Archey-Glory
+An archey script for Glory!
 
 ```
-
-                 ###
-               ####	                  User: jhann
-               ###                    Hostname: Hann
-       #######    #######             Distro: OS X 10.8.4
-     ######################           Kernel: Darwin
-    #####################             Uptime:  2:03
-    ####################              Shell: /bin/bash
-    ####################              Terminal: xterm
-    #####################             Packages: 70
-     ######################           CPU: Intel Core i5-3210M CPU @ 2.50GHz
-      ####################	          Memory: 8 GB
-        ################              Disk: 56%
-         ####     #####
+  ##                                       ##
+  ####                                   ####  User: brian
+  #######                             #######  Hostname: xtocat
+  ##########                       ##########  Distro: OS X 10.9.3
+  #############                 #############  Kernel: Darwin
+  ####  ##########            #########  ####  Uptime: 2 days
+  ####     ##########      #########     ####  Shell: /usr/local/bin/fish
+  ####        ######### #########        ####  Terminal: xterm-256color
+  ####           ##############          ####  Packages: 85
+  ####    #        ########         #    ####  CPU: Intel Core i7-3667U CPU @ 2.00GHz
+  ####    ####        ###        ####    ####  Memory: 8 GB
+  ####    #######             #######    ####  Disk: 98%
+  ####    ##########       ##########    ####
+  ####       ########## ##########       ####
+  ####          ###############          ####
+   ###    #        #########        #    ###
+     #    ####        ###        ####    #
+          #######             #######
+          ##########       ##########
+             ########## ##########
+               #################
+                  ###########
+                      ###
 ```
 
 ##Table Of Contents
@@ -26,24 +35,16 @@ An archey script for OS X.
 * [License](#license)
 
 ##Download
-The latest stable release is [1.4](https://github.com/obihann/archey-osx/archive/1.4.tar.gz).
-
-##Installation
-To get started you will need [homebrew](http://brew.sh/) to manage packages such as Python, figlet, and cowsay. To install please run the following command:
-
-```
-brew install archey
-```
+The latest stable release can be found here (https://github.com/madglory/archey-glory).
 
 ##Options
 ------------
 * -c,  --color : Color Logo
 * -m,  --macports : Use macports instead of brew to display package count
 
-
-
 ##Credits
 ------
+* [obihann](https://github.com/obihann/archey-osx/archive/1.4.tar.gz) - Archey-OSX
 * [djmelik](https://github.com/djmelik/archey) - Archey
 * [joshfinnie](https://github.com/joshfinnie/archey-osx) - A great OSX Python port of Archey
 * [Gary00](https://github.com/Gary00/archey-osx) - A fork of joshfinnie's Archey port, and the base of this script.
